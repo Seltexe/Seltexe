@@ -1,35 +1,28 @@
-# MonProjet
+# ✈️ Adrien Fornerod (Seltexe)
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+**`Software Engineer (Currently student at Game Academy in Avignon)`**
+<br />
+<br />
 
-## Description
-MonProjet est une application qui permet de [résumer l'objectif principal du projet].
+Hello! 👋 My name is Adrien Fornerod, and I am passionate about technology and video games 🎮💻. Currently pursuing a *Master's degree in Game Development*.
 
-## Démo
-![Demo](https://user-images.com/demo.gif)
 
-## Table des matières
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Fonctionnalités](#fonctionnalités)
-4. [Documentation](#documentation)
-5. [Contributions](#contributions)
-6. [Test](#test)
-7. [Roadmap](#roadmap)
-8. [Support](#support)
-9. [Auteur](#auteur)
-10. [Licence](#licence)
+---
 
-## Installation
-### Pré-requis
-- Node.js >= 14
-- PostgreSQL
+### 🧰 Languages and Tools
 
-### Étapes
-```bash
-# Cloner le dépôt
-git clone https://github.com/username/MonProjet.git
+<img align="left" alt="C" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
+<img align="left" alt="C++" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" />
+<img align="left" alt="C#" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
+<img align="left" alt="Notion" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" />
+<img align="left" alt="Photoshop" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"/>
+<img align="left" alt="Premiere Pro" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
+<img align="left" alt="VS Code" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" />
+<br />
+<br />
 
-# Installer les dépendances
-cd MonProjet
-npm install
+
+---
+
+### 📂 Notable Projects
