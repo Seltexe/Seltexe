@@ -2,6 +2,7 @@
 
 **`Software Engineer (Currently student at Game Academy in Avignon)`**
 <br />
+<br />
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Seltexe?cardType=github&theme=github-dark&preferLogin=false&Background=1D1618)](https://git.io/awesome-stats-card)
 <br />
 
