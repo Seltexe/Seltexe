@@ -16,6 +16,8 @@ Hello! 👋 My name is Adrien Fornerod, and I am passionate about technology and
 <img align="left" alt="C" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" />
 <img align="left" alt="C#" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
+<img align="left" alt="C#" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" />
+<img align="left" alt="C#" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" />
 <img align="left" alt="Notion" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" />
 <img align="left" alt="Photoshop" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"/>
 <img align="left" alt="Premiere Pro" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" />
