@@ -30,3 +30,5 @@ Hello! 👋 My name is Adrien Fornerod, and I am passionate about technology and
 ---
 
 ### 📂 Notable Projects
+
+- https://github.com/Seltexe/RaceCarML
