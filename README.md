@@ -11,7 +11,7 @@ Hello! 👋 My name is Adrien Fornerod, and I am passionate about technology and
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="C" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" />
@@ -29,6 +29,10 @@ Hello! 👋 My name is Adrien Fornerod, and I am passionate about technology and
 
 ---
 
-### 📂 Notable Projects
+## 📂 Notable Projects
 
+### Third year learning Game Development and programming (Mainly C++ and C#)
 - https://github.com/Seltexe/RaceCarML
+
+### Second year learning Game Development and programing (Mainly C++)
+- https://github.com/Seltexe/SFML-AStar
