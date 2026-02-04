@@ -23,9 +23,9 @@ Hello! 👋 My name is Adrien Fornerod, and I am passionate about technology and
 <img align="left" alt="Premiere Pro" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
 <img align="left" alt="VS Code" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" />
+<img align="left" alt="VS Code" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" />
 <br />
 <br />
-
 
 ---
 
