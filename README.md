@@ -35,4 +35,5 @@ Hello! 👋 My name is Adrien Fornerod, and I am passionate about technology and
 - https://github.com/Seltexe/RaceCarML
 
 ### Second year learning Game Development and programing (Mainly C++)
+- (End of year group project) https://store.steampowered.com/app/2969590/Monstro_Maestro/
 - https://github.com/Seltexe/SFML-AStar
