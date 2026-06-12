@@ -35,6 +35,7 @@ Hello! 👋 My name is Adrien Fornerod, and I am passionate about technology and
 ### Third year learning Game Development and programming (Mainly C++ and C#)
 - https://github.com/Seltexe/RaceCarML (Unity 6)
 - https://github.com/Seltexe/LootTheAbyss (Unreal Engine 5.6)
+- https://github.com/Seltexe/VulkanBase (C++, Vulkan)
 
 ### Second year learning Game Development and programing (Mainly C++)
 - (End of year group project) https://store.steampowered.com/app/2969590/Monstro_Maestro/
