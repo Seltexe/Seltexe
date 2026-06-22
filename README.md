@@ -30,6 +30,15 @@ Hello! 👋 My name is Adrien Fornerod, and I am passionate about technology and
 
 ---
 
+## 📦 Shipped games
+
+### Monstro Maestro
+- Available both on Steam and Blacknut Cloud Gaming
+- https://store.steampowered.com/app/2969590/Monstro_Maestro/
+- https://www.blacknut.com/fr/game/696f9c38269e081f88108331_monstro-maestro
+
+---
+
 ## 📂 Notable Projects
 
 ### Third year learning Game Development and programming (Mainly C++ and C#)
